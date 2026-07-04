@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Rashmi 👋</h1>
 
-<!--
-**rashmi-tondare/rashmi-tondare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA3F2&center=true&vCenter=true&width=500&lines=Backend+Engineer;Go+Enthusiast;Algorithm+Nerd;Open+Source+Contributor" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I enjoy building backend systems, writing clean APIs and digging into the details of how things work under the hood
+- I contribute to open source, mostly in the Go ecosystem
+- When I'm not coding, I'm mostly reading or taking a nap with my dog
+
+## 🔭 Currently Exploring
+
+- Recent additions to the Go standard library
+- Tracing and observability tooling
