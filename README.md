@@ -2,11 +2,11 @@
 
 ## 👩‍💻 About Me
 
-- I enjoy building backend systems, writing clean APIs and digging into the details of how things work under the hood
-- I contribute to open source, mostly in the Go ecosystem
-- When I'm not coding, I'm mostly nose deep in a book
+- I enjoy building backend systems, writing clean APIs and digging into the details of how things work under the hood.
+- I contribute to open source, mostly in the Go ecosystem. In order to help with the mass volume of open PRs, issues etc. I prefer to contribute by reviewing and discussing rather than generating more code.
+- When I'm not coding, I'm mostly nose deep in a book.
 
 ## 🔭 Currently Exploring
 
-- Recent additions to the Go standard library
-- Tracing and observability tooling
+- Recent additions to the Go standard library.
+- Tracing and observability tooling.
